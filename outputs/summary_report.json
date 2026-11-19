@@ -1,0 +1,22 @@
+{
+  "total_requests": 90,
+  "status_counts": {
+    "CÓ THỂ TIẾP TỤC": 77,
+    "CẦN BỔ SUNG THÔNG TIN": 0,
+    "CHƯA ĐÁP ỨNG": 0,
+    "CHỜ DUYỆT": 13
+  },
+  "total_value_eligible_and_pending_vnd": 59422521.37500001,
+  "total_value_formatted": "59,422,521 VNĐ",
+  "regional_kpi": [],
+  "financial_kpi": {
+    "budget_match_rate": 100.0,
+    "budget_within_count": 90,
+    "budget_cases_count": 90,
+    "average_discount_rate": 5.0,
+    "total_savings_vnd": 3127501.1249999995,
+    "ontime_rate": 83.3,
+    "ontime_count": 75,
+    "delivery_cases_count": 90
+  }
+}
